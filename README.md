@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alex-cracknell
-- 👀 I’m interested in ... Gamedev, Problem Solving, Learning New Stuff...
-- 🌱 I’m currently learning ... C#, Unity and GIT.
+- 👀 I’m interested in ... Data, Machine Learning, Problem Solving, Learning New Stuff...
+- 🌱 I’m currently learning ... Python.
 - 💞️ I’m looking to collaborate on ... Simple projects.
 - 📫 How to reach me ... @actually_alex_c on Twitter 
 
